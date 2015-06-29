@@ -347,9 +347,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: China Mobile M2M Company Limited (2WCLL6EYSZ)";
 				INFOPLIST_FILE = CIDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "18d60dd0-a26c-4dbb-9bd7-9bd59ee5e0e2";
 			};
 			name = Debug;
 		};
@@ -357,9 +360,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: China Mobile M2M Company Limited (2WCLL6EYSZ)";
 				INFOPLIST_FILE = CIDemo/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "18d60dd0-a26c-4dbb-9bd7-9bd59ee5e0e2";
 			};
 			name = Release;
 		};
@@ -416,6 +422,7 @@
 				1AD352B51B4111BC009C9133 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1AD352B61B4111BC009C9133 /* Build configuration list for PBXNativeTarget "CIDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				1AD352B81B4111BC009C9133 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

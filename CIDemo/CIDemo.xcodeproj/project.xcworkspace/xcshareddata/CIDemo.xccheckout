@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>2E90C169-3732-4D16-8EA5-296B9619E83D</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>CIDemo</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>50BDC5D692177137374AC06E3F3B0A7D0E3115B2</key>
 		<string>github.com:codeIreneFFM/CITestDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CIDemo/CIDemo.xcodeproj/project.xcworkspace</string>
+	<string>CIDemo/CIDemo.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>50BDC5D692177137374AC06E3F3B0A7D0E3115B2</key>

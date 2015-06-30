@@ -18,7 +18,7 @@
     [super viewDidLoad];
     NSLog(@"this is a CI test");
     UIView *yellowView= [[UIView alloc] initWithFrame:CGRectMake(50, 50, 100, 100)];
-    yellowView.backgroundColor = [UIColor yellowColor];
+    yellowView.backgroundColor = [UIColor redColor];
     [self.view addSubview:yellowView];
     // Do any additional setup after loading the view, typically from a nib.
 }
